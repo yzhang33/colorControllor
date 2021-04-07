@@ -38,3 +38,7 @@ I used a touch sensor for color-changing. Each port from 1 to 3 will correspond 
 The remote controller always has some latency, so it took some time for Daniel to see the color. I guess this is something we can not avoid.
 
 ![touch](assets/touch.jpg)
+
+## RoboBull Video
+
+[robobull](https://youtu.be/fgbT-v9AlLk)
